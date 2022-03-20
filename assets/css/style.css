@@ -26,7 +26,7 @@ header ul li {
     bottom: 30px;       
 }
 
-/*class styles*/
+/*class styles - services*/
 .services {
     width: 75%;
     display: inline-block;
@@ -52,6 +52,20 @@ header ul li {
     margin-left: 25px;
 }
 
+.service h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.service img {
+    max-height: 200px;
+}
+
+p {
+    font-size: 20px;
+}
+
+/*class styles - benefits*/
 .content {
     width: 75%;
     display: inline-block;
