@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*header styles*/
 header {
     padding: 30px;
     font-size: 25px;
@@ -15,6 +15,17 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+
+header ul li { 
+    display: inline;
+    font-size: 20px;
+    color: #d9dcd6;
+    margin-left: 20px;  
+    float: right;
+    position: relative;
+    bottom: 30px;       
+}
+
 
 .header {
     padding: 20px;
