@@ -15,7 +15,7 @@
  [Deployed application](https://sazu66.github.io/horiseon-refactor/) 
  [GitHub repository](https://github.com/Sazu66/horiseon-refactor)
 
- ![Screenshot](assets/images/_Users_sarahruff_Desktop_projects_horiseon_index.html (2).png)
+ ![Screenshot](https://user-images.githubusercontent.com/96785744/159194665-ad700d48-b5f5-45a1-a7ec-8ee5a048e05c.png)
 
 
 
