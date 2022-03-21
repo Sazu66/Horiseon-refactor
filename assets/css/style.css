@@ -16,16 +16,20 @@ header {
     color: #ffffff;
 }
 
-header ul li { 
+nav ul li { 
     display: inline;
     font-size: 20px;
     color: #d9dcd6;
     margin-left: 20px;  
     float: right;
     position: relative;
-    bottom: 30px;       
+    bottom: 30px;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
 /*class styles - services*/
 .services {
     width: 75%;
@@ -77,7 +81,6 @@ p {
     background-color: #2589bd;
 }
 
-
 .benefit  {
     margin-bottom: 32px;
     color: #ffffff;
@@ -92,11 +95,6 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /*footer*/
