@@ -12,9 +12,10 @@
     a. comments added to label each section of the page
 
 **LINKS**
- [Website](file:///Users/sarahruff/Desktop/projects/horiseon/index.html) 
- [Repository](https://github.com/Sazu66/horiseon-refactor)
+ [Deployed application]( 
+ [GitHub repository](https://github.com/Sazu66/horiseon-refactor)
 
+ ![Screenshot](assets/images/_Users_sarahruff_Desktop_projects_horiseon_index.html (2).png)
 
 
 
