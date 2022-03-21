@@ -12,7 +12,7 @@
     a. comments added to label each section of the page
 
 **LINKS**
- [Deployed application]( 
+ [Deployed application](https://sazu66.github.io/horiseon-refactor/) 
  [GitHub repository](https://github.com/Sazu66/horiseon-refactor)
 
  ![Screenshot](assets/images/_Users_sarahruff_Desktop_projects_horiseon_index.html (2).png)
