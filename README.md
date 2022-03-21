@@ -1,7 +1,7 @@
 # horiseon-refactor
 
 **ASSIGNMENT**
-Refactor existing code, making previous code more accessible.
+1. Refactor existing code, making previous code more accessible.
 
 **TASKS COMPLETED**
 1. Added semantic HTML elements
@@ -12,8 +12,8 @@ Refactor existing code, making previous code more accessible.
     a. comments added to label each section of the page
 
 **LINKS**
-Website
-Repository
+1. Website
+2. Repository
 
 
 
